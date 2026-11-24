@@ -1,4 +1,5 @@
 # 📚 LibrarySphere – Smart Library Management System
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Simra-26/LibrarySphere-Smart-Library-Management/blob/main/LibrarySphere_Full_Stack_Capstone.ipynb)
 
 A web-based Smart Library Management System developed using Python, Flask, SQLite, HTML and CSS. This project simplifies library operations through book inventory management, issue and return tracking, borrower records and data analytics.
 
